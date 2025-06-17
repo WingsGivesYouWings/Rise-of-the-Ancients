@@ -1,0 +1,3 @@
+displayName = Calamity: Rise of The Ancients
+author = Wings
+version = 0.1
