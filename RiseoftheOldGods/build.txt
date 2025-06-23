@@ -1,3 +1,0 @@
-displayName = Calamity; Rise of the Old Gods
-author = Wings
-version = 0.1
