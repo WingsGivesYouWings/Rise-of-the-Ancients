@@ -1,3 +1,0 @@
-displayName = Wrath of Waffle
-author = play346
-version = 1.1.1
