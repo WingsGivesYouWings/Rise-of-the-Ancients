@@ -11,6 +11,9 @@ namespace RiseoftheOldGods.Stuff.Items.Swords
 {
     class Sword
     {
-
+        class void override SetStaticDefaults() 
+        {
+            
+        }
     }
 }
